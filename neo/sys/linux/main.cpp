@@ -268,7 +268,7 @@ void idSysLocal::OpenURL( const char *url, bool quit ) {
 
 /*
 ===============
-main
+Main program execution loop - Application entry point
 ===============
 */
 int main(int argc, char **argv) {
