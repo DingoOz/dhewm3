@@ -44,6 +44,12 @@ If you have questions concerning this license or the applicable additional terms
 
 static char path_argv[MAX_OSPATH];
 
+
+//***********************************************************
+//
+//	Function to set up base_path etc
+//
+//***********************************************************
 bool Sys_GetPath(sysPath_t type, idStr &path) {
 	const char *s;
 	char buf[MAX_OSPATH];
