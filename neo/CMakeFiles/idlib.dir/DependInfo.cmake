@@ -1,0 +1,60 @@
+# The set of languages for which implicit dependencies are needed:
+SET(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+SET(CMAKE_DEPENDS_CHECK_CXX
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/Base64.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/Base64.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/BitMsg.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/BitMsg.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/CmdArgs.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/CmdArgs.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/Dict.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/Dict.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/Heap.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/Heap.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/LangDict.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/LangDict.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/Lexer.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/Lexer.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/Lib.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/Lib.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/MapFile.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/MapFile.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/Parser.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/Parser.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/Str.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/Str.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/Timer.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/Timer.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/Token.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/Token.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/bv/Bounds.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/bv/Bounds.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/bv/Box.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/bv/Box.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/bv/Frustum.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/bv/Frustum.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/bv/Sphere.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/bv/Sphere.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/containers/HashIndex.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/containers/HashIndex.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/geometry/DrawVert.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/geometry/DrawVert.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/geometry/JointTransform.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/geometry/JointTransform.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/geometry/Surface.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/geometry/Surface.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/geometry/Surface_Patch.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/geometry/Surface_Patch.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/geometry/Surface_SweptSpline.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/geometry/Surface_SweptSpline.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/geometry/TraceModel.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/geometry/TraceModel.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/geometry/Winding.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/geometry/Winding.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/geometry/Winding2D.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/geometry/Winding2D.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/hashing/CRC32.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/hashing/CRC32.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/hashing/MD4.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/hashing/MD4.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/hashing/MD5.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/hashing/MD5.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/math/Angles.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/math/Angles.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/math/Lcp.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/math/Lcp.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/math/Math.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/math/Math.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/math/Matrix.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/math/Matrix.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/math/Ode.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/math/Ode.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/math/Plane.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/math/Plane.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/math/Pluecker.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/math/Pluecker.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/math/Polynomial.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/math/Polynomial.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/math/Quat.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/math/Quat.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/math/Rotation.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/math/Rotation.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/math/Simd.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/math/Simd.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/math/Simd_3DNow.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/math/Simd_3DNow.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/math/Simd_AltiVec.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/math/Simd_AltiVec.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/math/Simd_Generic.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/math/Simd_Generic.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/math/Simd_MMX.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/math/Simd_MMX.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/math/Simd_SSE.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/math/Simd_SSE.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/math/Simd_SSE2.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/math/Simd_SSE2.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/math/Simd_SSE3.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/math/Simd_SSE3.cpp.o"
+  "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/idlib/math/Vector.cpp" "/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir/idlib/math/Vector.cpp.o"
+  )
+SET(CMAKE_CXX_COMPILER_ID "GNU")
+
+# Targets to which this target links.
+SET(CMAKE_TARGET_LINKED_INFO_FILES
+  )

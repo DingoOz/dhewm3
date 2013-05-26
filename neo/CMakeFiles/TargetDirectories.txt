@@ -1,0 +1,4 @@
+/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/base.dir
+/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/d3xp.dir
+/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/dhewm3.dir
+/home/dingo/Programming_adler/DingoOz_dhewm3/dhewm3/neo/CMakeFiles/idlib.dir
