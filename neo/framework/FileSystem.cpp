@@ -2002,7 +2002,7 @@ void idFileSystemLocal::Path_f( const idCmdArgs &args ) {
 idFileSystemLocal::TouchFile_f
 
 The only purpose of this function is to allow game script files to copy
-arbitrary files furing an "fs_copyfiles 1" run.
+arbitrary files during an "fs_copyfiles 1" run.
 ============
 */
 void idFileSystemLocal::TouchFile_f( const idCmdArgs &args ) {
