@@ -7,7 +7,7 @@
 #define BUILD_LIBRARY_SUFFIX	".so"
 
 #define BUILD_LIBDIR			"/usr/local/lib/dhewm3"
-#define BUILD_DATADIR			"$~/.doom3"
+#define BUILD_DATADIR			"/home/dingo/.doom3"
 
 #define HAVE_JPEG_MEM_SRC
 
