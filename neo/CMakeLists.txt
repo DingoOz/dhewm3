@@ -263,7 +263,8 @@ endif()
 set(bindir		"${CMAKE_INSTALL_FULL_BINDIR}")
 set(libdir		"${CMAKE_INSTALL_FULL_LIBDIR}/dhewm3")
 #set(datadir		"${CMAKE_INSTALL_FULL_DATADIR}/dhewm3")
-set(datadir		"/home/dingo/.doom3")
+set(datadir		"$ENV{HOME}/.doom3")
+
 
 configure_file(
 	"${CMAKE_SOURCE_DIR}/config.h.in"
